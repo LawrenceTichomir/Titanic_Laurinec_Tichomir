@@ -1,0 +1,22 @@
+[
+    {
+        "lifeboat_id": 4,
+        "capacity": 65,
+        "launch_time": "1912-04-15T00:45:00Z"
+    },
+    {
+        "lifeboat_id": 12,
+        "capacity": 35,
+        "launch_time": "1912-04-15T01:15:30Z"
+    },
+    {
+        "lifeboat_id": 19,
+        "capacity": 35,
+        "launch_time": "1912-04-15T01:45:15Z"
+    },
+    {
+        "lifeboat_id": 1,
+        "capacity": 65,
+        "launch_time": "1912-04-15T02:05:00Z"
+    }
+]

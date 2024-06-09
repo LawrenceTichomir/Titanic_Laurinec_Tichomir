@@ -1,0 +1,30 @@
+[
+    {
+        "cabin_id": 4,
+        "lifeboat_id": 7,
+        "cabin_name": "Empire",
+        "cabin_number": "B-22",
+        "deck": "B"
+    },
+    {
+        "cabin_id": 6,
+        "lifeboat_id": 4,
+        "cabin_name": "Old Dutch",
+        "cabin_number": "B-26",
+        "deck": "B"
+    },
+    {
+        "cabin_id": 15,
+        "lifeboat_id": 4,
+        "cabin_name": "Adam",
+        "cabin_number": "C-15",
+        "deck": "C"
+    },
+    {
+        "cabin_id": 24,
+        "lifeboat_id": 3,
+        "cabin_name": "Bedroom A",
+        "cabin_number": "E-2",
+        "deck": "E"
+    }
+]

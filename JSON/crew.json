@@ -1,0 +1,30 @@
+[
+    {
+        "crew_id": 17,
+        "cabin_id": 12,
+        "first_name": "Jonathan",
+        "last_name": "Freeman",
+        "role": "Engineering"
+    },
+    {
+        "crew_id": 9,
+        "cabin_id": 11,
+        "first_name": "George",
+        "last_name": "Bush",
+        "role": "Butcher"
+    },
+    {
+        "crew_id": 11,
+        "cabin_id": 14,
+        "first_name": "Gordon James",
+        "last_name": "Polterkov",
+        "role": "Nurse"
+    },
+    {
+        "crew_id": 19,
+        "cabin_id": 13,
+        "first_name": "Kamayoto",
+        "last_name": "Nagusaki",
+        "role": "Boilermen"
+    }
+]
